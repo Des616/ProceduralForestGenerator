@@ -1,8 +1,13 @@
 .content{
     margin: auto;
     display: flex;
-    padding: 20px;
+    padding: 50px;
     justify-content: center;
     align-items: center;
+    color: black;
+    text-align: center;
+    font-size: 24px; 
+    font-family: Arial, Helvetica, sans-serif ;
 }
+
 
